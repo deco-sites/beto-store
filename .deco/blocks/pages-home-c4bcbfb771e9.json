@@ -8,6 +8,13 @@
       }
     },
     {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "reviews-app/sections/Teste.tsx",
+        "text": "lorem ipsum"
+      }
+    },
+    {
       "__resolveType": "site/sections/Images/Carousel.tsx",
       "images": [
         {
